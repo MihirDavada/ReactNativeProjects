@@ -25,5 +25,6 @@
 ![image](https://github.com/MihirDavada/ReactNativeProjects/assets/101976200/f432515b-deab-4e79-8660-84ef1b3fa36a)
 
 **5_favouriteplaces**
+
 ![image](https://github.com/MihirDavada/ReactNativeProjects/assets/101976200/8e2d7a1a-57af-47a2-94ed-6d34e20f140e)
 
